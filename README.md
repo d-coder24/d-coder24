@@ -4,7 +4,7 @@
 # 🤝 Connect with me:
 <p align="left">
 <a href="https://www.leetcode.com/d-coder24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="d-coder24" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/d-coder24/coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="d-coder24/coder" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/darshancoder24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="d-coder24/coder" height="30" width="40" /></a>
 </p>
 
 # 🌐 Socials:
