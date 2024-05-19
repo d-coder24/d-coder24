@@ -1,8 +1,13 @@
 # 🚀 About Me:
 🔭 I’m currently working on:<br>Developing an advanced crowdfunding platform and enhancing features of my e-commerce project, MobArt.<br><br>👯 I’m looking to collaborate on:<br>Innovative web development projects, particularly those involving the MERN stack, and Python-based machine learning applications.<br><br>🤝 I’m looking for help with:<br>Integrating complex authentication systems and improving UI/UX design for web applications.<br><br>🌱 I’m currently learning:<br>Advanced TypeScript and exploring AI-driven solutions using PyTorch and TensorFlow.<br><br>💬 Ask me about:<br>Full-stack web development, Python programming, and my experience with NextJS and Tailwind CSS.<br><br>⚡ Fun fact:<br>I'm a Hardcore Gamer who enjoys playing FPS or Battle Royale in my spare time.
 
+# 🤝 Connect with me:
+<p align="left">
+<a href="https://www.leetcode.com/d-coder24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="d-coder24" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/d-coder24/coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="d-coder24/coder" height="30" width="40" /></a>
+</p>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/darshan.coder) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darshan-r24) 
 
 # 💻 Tech Stack:
