@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🚀 About Me:
 🔭 I’m currently working on:<br>Developing an advanced crowdfunding platform and enhancing features of my e-commerce project, MobArt.<br><br>👯 I’m looking to collaborate on:<br>Innovative web development projects, particularly those involving the MERN stack, and Python-based machine learning applications.<br><br>🤝 I’m looking for help with:<br>Integrating complex authentication systems and improving UI/UX design for web applications.<br><br>🌱 I’m currently learning:<br>Advanced TypeScript and exploring AI-driven solutions using PyTorch and TensorFlow.<br><br>💬 Ask me about:<br>Full-stack web development, Python programming, and my experience with NextJS and Tailwind CSS.<br><br>⚡ Fun fact:<br>I'm a Hardcore Gamer who enjoys playing FPS or Battle Royale in my spare time.
 
 
